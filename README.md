@@ -64,6 +64,10 @@ As an enthusiastic reader, I want to be able to browse through a catalog of best
 
 <img width="1660" alt="Screen Shot 2023-01-30 at 10 26 44 PM" src="https://user-images.githubusercontent.com/113862737/215656947-f15be2df-6a5f-413b-997b-75442238de01.png">
 
+<img width="1680" alt="Screen Shot 2023-01-30 at 10 44 00 PM" src="https://user-images.githubusercontent.com/113862737/215657965-f9922643-0fa8-423e-a21b-b08d7320e3aa.png">
+
+<img width="1680" alt="Screen Shot 2023-01-30 at 10 44 20 PM" src="https://user-images.githubusercontent.com/113862737/215657981-a98b2a67-4106-4625-a5d2-e8fbc3af4e64.png">
+
 
 ***
 
