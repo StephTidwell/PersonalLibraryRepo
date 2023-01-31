@@ -30,25 +30,31 @@ As an enthusiastic reader, I want to be able to browse through a catalog of best
 - [Heroku](https://www.heroku.com/)
 - [GitHub](https://www.github.com)
 
+- 3rd Party APIs Used
+  OpenLibrary API for querying information of books using Javascript
+- CSS Framework
+  Tailwind CSS
+  - Pted)
+  
 ***
 
 ## NPM Packages Used
 
 - [Bootstrap](https://www.npmjs.com/package/bootstrap)
 - [prettier](https://www.npmjs.com/package/prettier)
-
+- parsley (Front-end form validation 
 
 ***
 
-## Links
+## Links: https://young-chamber-90202.herokuapp.com/
 
-### Github Repository
+### Github Repository: https://github.com/StephTidwell/PersonalLibraryRepo/edit/main/README.md
 
-- [GitHub Repository](https://github.com/Zeizil)
+- [Group GitHub Repository](https://github.com/Zeizil)
 
 ### Heroku Application Page 
 
-- [Personal Library Heroku Application](https://)
+- [Personal Library Heroku Application](https://young-chamber-90202.herokuapp.com/)
 
 ***
 
@@ -56,12 +62,7 @@ As an enthusiastic reader, I want to be able to browse through a catalog of best
 
 ### Screenshots
 
-![Screenshots of Login Screen]
-
-***
-
-## Usage
-
+<img width="1660" alt="Screen Shot 2023-01-30 at 10 26 44 PM" src="https://user-images.githubusercontent.com/113862737/215656947-f15be2df-6a5f-413b-997b-75442238de01.png">
 
 
 ***
