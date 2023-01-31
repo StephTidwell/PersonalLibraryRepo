@@ -34,7 +34,7 @@ As an enthusiastic reader, I want to be able to browse through a catalog of best
   OpenLibrary API for querying information of books using Javascript
 - CSS Framework
   Tailwind CSS
-  - Pted)
+ 
   
 ***
 
